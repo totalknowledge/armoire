@@ -1,0 +1,30 @@
+{
+  "name": "armoire",
+  "version": "1.0.0",
+  "description": "A library for storing your stuff.  Database, file, and webapi access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totalknowledge/armoire.git"
+  },
+  "keywords": [
+    "Opinionated",
+    "ORM",
+    "API",
+    "Generic",
+    "Yaml",
+    "JSON"
+  ],
+  "author": "Bryan Patrick Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totalknowledge/armoire/issues"
+  },
+  "homepage": "https://github.com/totalknowledge/armoire#readme",
+  "dependencies": {
+    "sqlite3": "^4.0.8"
+  }
+}
